@@ -1,0 +1,24 @@
+h1{
+    transform: rotate(15deg);
+      transform: scaleY(3);
+    
+
+}
+h2{
+    /* visibility: hidden; */
+    transform: scaleY(2.5);
+    transform: scaleX(5);
+    transform: rotate(10deg);
+
+}
+@media (max-width:500px) {
+    h2{
+        visibility: visible;
+        transform: scaleY(2);
+        transform: scaleX(1.5);
+        transform: rotate(10deg);
+    }
+}
+h3{
+    display: inline;
+}

@@ -1,0 +1,35 @@
+
+.red{
+  background-color: red;
+  border-radius: 9px;
+  height: 5vh;
+  width: 5vw;
+}
+.green{
+  background-color: green;
+  border-radius: 9px;
+  height: 5vh;
+  width: 5vw;
+}
+.vv{
+  background-color:violet;
+  border-radius: 9px;
+  height: 5vh;
+  width: 5vw;
+}
+.blue{
+  background-color:pink;
+  border-radius: 9px;
+  height: 5vh;
+  width: 5vw;
+}
+.screen{
+  height:100vh;
+  width:100vw;
+  background-color: aquamarine;
+}
+.co{
+  text-align: center;
+  margin-top: 30vh;
+
+}

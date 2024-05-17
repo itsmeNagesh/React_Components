@@ -1,0 +1,24 @@
+*{
+  margin:0;
+  padding: 0;
+}
+#nn{
+  height: 90px;
+  background-color: rgb(255, 246, 127);
+  text-align: center;
+  
+  font-weight: 900;
+  padding-top: 10px;
+}
+ul li{
+  padding: 10px;
+  font-size: larger;
+}
+.foo{
+  margin-top:70vh;
+  margin-bottom: 0;
+  
+}
+footer{
+  height: px;
+}
